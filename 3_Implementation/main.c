@@ -42,5 +42,4 @@ int main()
     {
         printf("\n Invalid Press!"); /// If any other option is choose it will show Invalid Press
     }
-    return 0;
 }
