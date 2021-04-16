@@ -18,3 +18,11 @@
   4) startpracticegame()- starts the practice game initially.
   5) startgame()- starts the main quiz game.
 
+## SWOT ANALYSIS 
+SWOT is a strategic planning tool used to evaluate the strengths, weaknesses, opportunities, and threats to a project. 
+It involves specifying the objective of the project and identifying the internal and external factors that are favourable and unfavourable to achieving that objective.
+The strengths and weaknesses usually arise from within an organisation, and the opportunities and threats from external sources.
+
+
+
+
