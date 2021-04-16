@@ -23,7 +23,7 @@ SWOT is a strategic planning tool used to evaluate the strengths, weaknesses, op
 It involves specifying the objective of the project and identifying the internal and external factors that are favourable and unfavourable to achieving that objective.
 The strengths and weaknesses usually arise from within an organisation, and the opportunities and threats from external sources.
 
-[](https://github.com/isha121298/Mini_Project/blob/a0d68723d3d4b3bba924b5dee92612eb03fc1425/6_ImagesAndVideos/SWOT.png)
+![swot](https://github.com/isha121298/Mini_Project/issues/1#issue-859658388)
 
 
 
