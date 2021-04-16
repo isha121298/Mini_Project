@@ -1,17 +1,26 @@
+/* This file contains two function related to the starting the game. */
+
 char ans[2];
+
+/* This function describes the practice game for the game */
+
 void startpracticegame()
 {
+    /// 1st question
+	
     printf("\n\n\n1) Who founded Apple Computer?");
-	printf("\n\nA) Stephen Fry\t\tB) Bill Gates\t\tC) Steve Jobs\t\tD) Stephen Hawking");
-	if(getchar()=='C')
-	{
+    printf("\n\nA) Stephen Fry\t\tB) Bill Gates\t\tC) Steve Jobs\t\tD) Stephen Hawking");
+    if(getchar()=='C')
+    {
     printf("\n\nCorrect!!!");
     }
-	else
-	{
+    else
+    {
         printf("\n\nWrong!!! The correct answer is C) Steve Jobs");
     }
-
+	
+     /// 2nd question
+	
     printf("\n\n\n2) Which of these is not a peripheral, in computer terms?");
     printf("\n\nA) Keyboard\t\tB) Monitor\t\tC) Mouse\t\tD) Motherboard");
 	if(getchar()=='D')
@@ -24,6 +33,9 @@ void startpracticegame()
     }
 
 }
+
+/// This function holds the main activity of the game.
+/// Contains 5 questions with options to choose.
 
 void startgame()
 {
