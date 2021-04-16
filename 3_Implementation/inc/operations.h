@@ -1,3 +1,5 @@
+/* This functions displays the menus for the quiz program.
+   It is the first display menu after the execution */
 
 void displaymenu()
 {
@@ -13,6 +15,11 @@ void displaymenu()
      printf("\n\t\t > Press Q to quit          ");
      printf("\n\t\t________________________________________\n\n");
 }
+
+/* This functions displays the rules for the quiz program.
+   Follow the rules and score points*/
+
+
 void displayrules()
 {
     printf("\n -------------------------------------------------------------------------");
@@ -32,6 +39,11 @@ void displayrules()
     printf("\n Press N to return to the main menu!");
 
 }
+
+/* This functions displays the options to continue or quit the quiz program.
+    */
+
+
 void displayoption()
 {
     printf("\n\n\n Press C  to continue CHALLANGE ROUND of the game!\n");
